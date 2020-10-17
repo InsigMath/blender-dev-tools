@@ -53,6 +53,7 @@ dict_custom = {
     "atomicity",
     "boolean",
     "breaked",
+    "catadioptric",
     "confusticate", "confusticated",
     "customizable",
     "decrement",
@@ -108,6 +109,7 @@ dict_custom = {
     "unregister", "unregisters",
     "unselected",
     "vectorial",
+    "zoomable",
 
     # python types
     "enum", "enums",
@@ -135,6 +137,7 @@ dict_custom = {
     "ortho",
     "recalc",
     "reparent",
+    "resync",
     "struct", "structs",
     "subdir",
     "tooltip",
@@ -275,11 +278,13 @@ dict_ignore = {
     "id-block",
     "inlined",
     "loc",
+    "namespace",
     "node-trees",
     "ok",
+    "ok-ish",
     "param",
     "polyline", "polylines",
-    "premultiply"
+    "premultiply", "premultiplied",
     "pylint",
     "quad",
     "readonly",
